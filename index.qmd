@@ -1,11 +1,21 @@
 ---
 title: "KandibandaKashyap"
+image: pic (Medium).jpg
+resources: cv_jfrench.pdf
+about: 
+  id: jfrench-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:kkandiba@gmu.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/kandibandakashyap
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+::: {#jfrench-heading}
+I am pursuing an MS in Data Analytics Engineering at George Mason University. With a background in mechanical engineering from Amrita School of Engineering, I have honed my skills in problem-solving and data analysis. I'm passionate about using data-driven insights to solve complex problems, improve processes, and drive innovation. I also have experience in leadership roles through extracurricular activities, such as organizing workshops and volunteer projects, reflecting my teamwork and management abilities.
+:::
