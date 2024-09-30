@@ -3,7 +3,7 @@
     "path": "E:/Masters/sem1/R_stat515/temp_Web/kandibandakashyap.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3042229270",
+    "hash": "3018753725",
     "contents": "",
     "dirty": false,
     "created": 1727728380162.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,17",
-        "scrollLine": "0"
+        "cursorPosition": "20,130",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727728414,
+    "lastKnownWriteTime": 1727730305,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727728414388,
+    "last_content_update": 1727730305330,
     "read_only": false,
     "read_only_alternatives": []
 }
