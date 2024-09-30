@@ -1,0 +1,8 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: KandibandaKashyap\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: lux\n  title: KandibandaKashyap\n  image: pic (Medium).jpg\n  about:\n    id: Kandibanda Kashyap\n    template: jolla\n    image-shape: rounded\n    image-width: 15em\n    links:\n      - text: Email\n        icon: envelope\n        href: 'mailto:kkandiba@gmu.edu'\n      - text: GitHub\n        icon: github\n        href: 'https://github.com/kandibandakashyap'\n  \n"]
+[1,"Output created: docs\\index.html\n\nPreparing to preview\n"]
+[1,"\r[1/2] favorites.qmd\n"]
+[1,"\r[2/2] hobbies.qmd\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:5608/\n"]
+[1,"GET: /\n"]

@@ -1,9 +1,8 @@
 ---
 title: "KandibandaKashyap"
 image: pic (Medium).jpg
-resources: cv_jfrench.pdf
 about: 
-  id: jfrench-heading
+  id: Kandibanda Kashyap
   template: jolla
   image-shape: rounded
   image-width: 15em
