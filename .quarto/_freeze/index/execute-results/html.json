@@ -1,0 +1,15 @@
+{
+  "hash": "be504ea933e3ead029ffd82c5d99338a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"KandibandaKashyap\"\nimage: jfrench.jpg\nresources: cv_jfrench.pdf\nabout: \n  id: jfrench-heading\n  template: jolla\n  image-shape: rounded\n  image-width: 15em\n  links:\n    - text: Email\n      icon: envelope\n      href: mailto:joshua.french@ucdenver.edu\n    - text: GitHub\n      icon: github\n      href: https://github.com/kandibandakashyap\n    - text: YouTube\n      icon: youtube\n      href: https://youtube.com/@kandibandakashyap\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

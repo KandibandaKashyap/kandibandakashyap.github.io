@@ -2,4 +2,4 @@
 title: "favorites"
 ---
 
-My fav
+My favorites

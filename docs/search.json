@@ -1,16 +1,44 @@
 [
   {
+    "objectID": "Placeholder2.html",
+    "href": "Placeholder2.html",
+    "title": "Placeholder",
+    "section": "",
+    "text": "placeholder"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "KandibandaKashyap",
     "section": "",
-    "text": "I am pursuing an MS in Data Analytics Engineering at George Mason University. With a background in mechanical engineering from Amrita School of Engineering, I have honed my skills in problem-solving and data analysis. I’m passionate about using data-driven insights to solve complex problems, improve processes, and drive innovation. I also have experience in leadership roles through extracurricular activities, such as organizing workshops and volunteer projects, reflecting my teamwork and management abilities."
+    "text": "I am pursuing an MS in Data Analytics Engineering at George Mason University. With a background in mechanical engineering from Amrita School of Engineering, I have honed my problem-solving and data analysis skills. I’m passionate about using data-driven insights to solve complex problems, improve processes, and drive innovation. I also have experience in leadership roles through extracurricular activities, such as organizing workshops and volunteer projects, reflecting my teamwork and management abilities.\nI have gained hands-on experience through various roles, including a backend intern at GrootLabs, where I worked on optimizing backend systems for performance and scalability. I also served as an associate at GoldSquare Avenues, contributing to key decision-making and project management.\nMy academic project on fracture mechanics analysis of materials with voids, using Finite Element simulations in Abaqus, involved detailed mesh convergence analysis and the study of fracture energy concerning void proximity. The project, aimed at industries like automotive and aerospace, provided insights into material integrity and fracture behavior, further enhancing my expertise in data analytics and engineering. Additionally, during my internship at Singareni Collieries Company Limited, I explored various manufacturing techniques and identified process improvements to optimize production efficiency.\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Linkedin"
+  },
+  {
+    "objectID": "favorites.html",
+    "href": "favorites.html",
+    "title": "favorites",
+    "section": "",
+    "text": "My favorites"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nThis is a website for kashyap"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "hobbies",
+    "section": "",
+    "text": "Listening to music.\nReading light novels, manga, and manhwa.\nLearning about new tech and softwares\nwatching anime, and movies."
+  },
+  {
+    "objectID": "Placeholder1.html",
+    "href": "Placeholder1.html",
+    "title": "Placeholder",
+    "section": "",
+    "text": "placeholder"
   }
 ]
