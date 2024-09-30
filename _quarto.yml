@@ -11,6 +11,8 @@ website:
       - about.qmd
       - favorites.qmd
       - hobbies.qmd
+      - Placeholder1.qmd
+      - Placeholder2.qmd
 
 format:
   html:
